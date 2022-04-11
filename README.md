@@ -8,4 +8,5 @@
 # 使用方式
 双击kms.bat 执行，自动判断Windows/Office版本，进行激活
 如有管理员权限弹窗，请选择同意
-# 温馨提示 此脚本仅供测试，请购买正版Windows/Office。 Windows/Office版权归属于微软，无意冒犯2333。。。
+# 温馨提示 
+此脚本仅供测试，请购买正版Windows/Office。 Windows/Office版权归属于微软，无意冒犯2333。。。
